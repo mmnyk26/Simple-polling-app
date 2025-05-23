@@ -7,7 +7,7 @@ A simple web application that allows users to create polls, vote, and view resul
 - Create a poll with a question and multiple options
 - Vote on a poll
 - View live voting results
-- Responsive UI (desktop-friendly)
+- Responsive UI 
 - Backend: Java Spring Boot + MySQL
 - Frontend: React.js + TailwindCSS
 - REST API Integration
